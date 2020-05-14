@@ -1,2 +1,7 @@
-model:Indian
-min:100
+vehicle:
+  default:
+    model: Indian
+
+member:
+  rent:
+    min: 100
