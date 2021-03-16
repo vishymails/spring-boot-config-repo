@@ -4,4 +4,4 @@ vehicle:
 
 member:
   rent:
-    min: 1000
+    min: 10000
